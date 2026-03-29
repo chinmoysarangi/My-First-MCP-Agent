@@ -1,0 +1,4 @@
+# Ignore the actual settings file containing my keys
+settings.json
+node_modules/
+.env

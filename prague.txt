@@ -1,0 +1,4 @@
+Hotel Name,Price per Night (for April 3rd 2026),Notes
+Hotel Roma Prague,$98,
+Hotel Pod Vezi,$128,"Price is for April 6th, 2026"
+Charles Bridge Economic Hostel,$134,"Price is for April 7th, 2026"

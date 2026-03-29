@@ -1,0 +1,7 @@
+# System Requirements
+Node.js >= v20.0.0
+VSCode >= 1.90
+Gemini Code Assist Extension
+
+# API Keys Needed
+Tavily API Key (Free Tier)

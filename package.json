@@ -1,0 +1,10 @@
+{
+  "name": "my-gemini-mcp-agent",
+  "version": "1.0.0",
+  "description": "Local MCP setup for Gemini Pro",
+  "dependencies": {
+    "tavily-mcp": "latest",
+    "@modelcontextprotocol/server-filesystem": "latest",
+    "@modelcontextprotocol/server-fetch": "latest"
+  }
+}
