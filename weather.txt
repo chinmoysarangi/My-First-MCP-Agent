@@ -1,12 +1,3 @@
-# From Hotel Recommendations:
-
-Hotel Name,Price per Night (for April 3rd 2026),Notes
-Hotel Roma Prague,$98,
-Hotel Pod Vezi,$128,"Price is for April 6th, 2026"
-Charles Bridge Economic Hostel,$134,"Price is for April 7th, 2026"
-
-# Weather Forecase for Lisbon:
-
 Lisbon Weather Forecast Summary (April 2026)
 
 Current conditions (as of April 6): Around 17°C (63°F) with patchy rain.
