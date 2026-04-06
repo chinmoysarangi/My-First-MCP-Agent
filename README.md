@@ -28,6 +28,8 @@
 ## 🧪 How to Test
 1. Open Gemini Chat in VSCode.
 2. Type `/mcp` to verify the connection. It should show the following markers in green to ensure the features are enabled:
+
 ![alt text](mcp_list.png)
+
 3. Use an agentic prompt: *"Search for [Topic] using Tavily and save the results to a new file in my project folder."*
 4. I have also uploaded some custom prompts in `prompt.txt` file.
