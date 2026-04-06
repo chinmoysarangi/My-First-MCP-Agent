@@ -1,4 +1,4 @@
 # Ignore the actual settings file containing my keys
-settings.json
+.gemini/
 node_modules/
 .env

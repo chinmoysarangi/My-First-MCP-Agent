@@ -1,4 +1,22 @@
+# From Hotel Recommendations:
+
 Hotel Name,Price per Night (for April 3rd 2026),Notes
 Hotel Roma Prague,$98,
 Hotel Pod Vezi,$128,"Price is for April 6th, 2026"
 Charles Bridge Economic Hostel,$134,"Price is for April 7th, 2026"
+
+# Weather Forecase for Lisbon:
+
+# Weather Forecast for Lisbon (Mid-April 2026)
+
+Next week in Lisbon expects mild spring temperatures ranging from 16°C to 22°C during the day, with cooler nights between 9°C and 13°C. Conditions will be mixed, featuring overcast skies, partly cloudy days, and chances of patchy or light rain showers.
+
+**Daily Breakdown (Highs/Lows in °C):**
+
+* **Monday, April 13:** Patchy rain possible (16°C / 9°C)
+* **Tuesday, April 14:** Overcast (17°C / 9°C)
+* **Wednesday, April 15:** Light rain shower (20°C / 11°C)
+* **Thursday, April 16:** Partly cloudy (21°C / 12°C)
+* **Friday, April 17:** Overcast (22°C / 13°C)
+* **Saturday, April 18:** Partly cloudy (20°C / 13°C)
+* **Sunday, April 19:** Partly cloudy (19°C / 13°C)

@@ -1,1 +1,5 @@
+# Prompt 1 - Hotel Recomendations:
 I'm planning a trip to Prague. Use Tavily to find the current top 3 budget hotels in the Mala Strana district. Then, use the Fetch tool to read the 'name of hotels and fetch the price per night for 3rd April 2026 for hotels you find. Finally, save a summary of what you found as a table into a new file called 'prague.txt' in my AI_Projects folder.
+
+# Prompt 2 - Weather in Lisbon:
+Search for the weather in Lisbon for next week and provide brief summary along with the highs and lows in Celsius per day. Save a summary into a new file called 'weather.txt' in my project folder.
